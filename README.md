@@ -6,3 +6,6 @@ Un portafolio web personal creado durante mi aprendizaje de control de versiones
 
 ## Autor
 [WILSON] - Estudiante de [ING.SistemaComputacional]
+
+## Fecha
+[29.09.2025]
